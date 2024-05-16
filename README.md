@@ -1,5 +1,3 @@
-# Infra-Cloud-Reservation
-
 **Document technique projet Infra**
 
 Suarez Joris Ahmed BEN AROUS
